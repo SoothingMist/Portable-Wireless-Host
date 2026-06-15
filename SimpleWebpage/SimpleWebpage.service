@@ -1,0 +1,15 @@
+
+[Unit]
+Description=Demonstrates a simple webpage as a service
+After=network.target SimpleWebpage.service
+
+[Service]
+Type=simple
+User=peter
+WorkingDirectory=/home/peter/PythonServices/SimpleWebpage
+ExecStart= bash -c ' cd /home/peter/PythonServices/SimpleWebpage && source ../venv/bin/activate && python main.py'
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
