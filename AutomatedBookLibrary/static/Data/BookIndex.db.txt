@@ -1,0 +1,5 @@
+
+The database is too large for GitHub.
+
+You can download it from http://informationanthology.net/BookIndex.db.
+  
