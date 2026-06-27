@@ -5,9 +5,9 @@ Portable information centers hosted by headless Linux computers offer cost-effec
 
 Here you will find documentation and files that resulted from an exploration of such a capability.
 
-< ... more to come ... arranging files and finalizing documentation ... >
-
 Your objective comments and insights are welcome.
+
+The author would be glad for an opportunity to collaborate on a specific application.
 
 # License
 
