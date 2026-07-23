@@ -1,2 +1,2 @@
-
-put stuff here
+pyserial
+matplotlib
